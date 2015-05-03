@@ -8,6 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		8392007A18EE8E3300B6C429 /* GLKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8392007918EE8E3300B6C429 /* GLKit.framework */; };
+		B304CB241AA41FA1008A9316 /* Block.m in Sources */ = {isa = PBXBuildFile; fileRef = B304CB231AA41FA1008A9316 /* Block.m */; };
+		B37BD8751AF665E70034E210 /* GameEnd.m in Sources */ = {isa = PBXBuildFile; fileRef = B37BD8741AF665E70034E210 /* GameEnd.m */; };
+		B39B76CD1AA4130900CCDD81 /* Grid.m in Sources */ = {isa = PBXBuildFile; fileRef = B39B76CC1AA4130900CCDD81 /* Grid.m */; };
+		B39B76D11AA4133100CCDD81 /* Tile.m in Sources */ = {isa = PBXBuildFile; fileRef = B39B76D01AA4133100CCDD81 /* Tile.m */; };
 		B71F5911188484E7003F4D28 /* iPad-old.png in Resources */ = {isa = PBXBuildFile; fileRef = B71F5907188484E7003F4D28 /* iPad-old.png */; };
 		B71F5912188484E7003F4D28 /* iPad-old@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B71F5908188484E7003F4D28 /* iPad-old@2x.png */; };
 		B71F5913188484E7003F4D28 /* iPad.png in Resources */ = {isa = PBXBuildFile; fileRef = B71F5909188484E7003F4D28 /* iPad.png */; };
@@ -57,6 +61,14 @@
 
 /* Begin PBXFileReference section */
 		8392007918EE8E3300B6C429 /* GLKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLKit.framework; path = System/Library/Frameworks/GLKit.framework; sourceTree = SDKROOT; };
+		B304CB221AA41FA1008A9316 /* Block.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Block.h; path = Source/Block.h; sourceTree = "<group>"; };
+		B304CB231AA41FA1008A9316 /* Block.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Block.m; path = Source/Block.m; sourceTree = "<group>"; };
+		B37BD8731AF665E70034E210 /* GameEnd.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GameEnd.h; path = Source/GameEnd.h; sourceTree = "<group>"; };
+		B37BD8741AF665E70034E210 /* GameEnd.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GameEnd.m; path = Source/GameEnd.m; sourceTree = "<group>"; };
+		B39B76CB1AA4130900CCDD81 /* Grid.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Grid.h; path = Source/Grid.h; sourceTree = "<group>"; };
+		B39B76CC1AA4130900CCDD81 /* Grid.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Grid.m; path = Source/Grid.m; sourceTree = "<group>"; };
+		B39B76CF1AA4133100CCDD81 /* Tile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Tile.h; path = Source/Tile.h; sourceTree = "<group>"; };
+		B39B76D01AA4133100CCDD81 /* Tile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Tile.m; path = Source/Tile.m; sourceTree = "<group>"; };
 		B71F5907188484E7003F4D28 /* iPad-old.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iPad-old.png"; path = "Icons/iPad-old.png"; sourceTree = "<group>"; };
 		B71F5908188484E7003F4D28 /* iPad-old@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iPad-old@2x.png"; path = "Icons/iPad-old@2x.png"; sourceTree = "<group>"; };
 		B71F5909188484E7003F4D28 /* iPad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = iPad.png; path = Icons/iPad.png; sourceTree = "<group>"; };
@@ -129,6 +141,14 @@
 				B737893E1807617C0076A88C /* AppDelegate.m */,
 				B7378992180767190076A88C /* MainScene.h */,
 				B7378993180767190076A88C /* MainScene.m */,
+				B39B76CB1AA4130900CCDD81 /* Grid.h */,
+				B39B76CC1AA4130900CCDD81 /* Grid.m */,
+				B39B76CF1AA4133100CCDD81 /* Tile.h */,
+				B39B76D01AA4133100CCDD81 /* Tile.m */,
+				B304CB221AA41FA1008A9316 /* Block.h */,
+				B304CB231AA41FA1008A9316 /* Block.m */,
+				B37BD8731AF665E70034E210 /* GameEnd.h */,
+				B37BD8741AF665E70034E210 /* GameEnd.m */,
 			);
 			name = Source;
 			sourceTree = "<group>";
@@ -340,9 +360,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B39B76D11AA4133100CCDD81 /* Tile.m in Sources */,
 				B737893F1807617C0076A88C /* AppDelegate.m in Sources */,
 				B7378994180767190076A88C /* MainScene.m in Sources */,
+				B304CB241AA41FA1008A9316 /* Block.m in Sources */,
+				B37BD8751AF665E70034E210 /* GameEnd.m in Sources */,
 				B73789871807631A0076A88C /* main.m in Sources */,
+				B39B76CD1AA4130900CCDD81 /* Grid.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

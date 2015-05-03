@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>Asset/Blocks_01_256x256_Alt_00_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1987, 1564}, {256, 256}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {256, 256}}</string>
+			<key>sourceSize</key>
+			<string>{256, 256}</string>
+		</dict>
+		<key>Asset/Blocks_01_256x256_Alt_00_002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2245, 1564}, {256, 256}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {256, 256}}</string>
+			<key>sourceSize</key>
+			<string>{256, 256}</string>
+		</dict>
+		<key>Asset/Blocks_01_256x256_Alt_00_003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2503, 1564}, {256, 256}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {256, 256}}</string>
+			<key>sourceSize</key>
+			<string>{256, 256}</string>
+		</dict>
+		<key>Asset/Blocks_01_256x256_Alt_00_004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2761, 1672}, {256, 256}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {256, 256}}</string>
+			<key>sourceSize</key>
+			<string>{256, 256}</string>
+		</dict>
+		<key>Asset/Blocks_01_256x256_Alt_00_005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3019, 1672}, {256, 256}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {256, 256}}</string>
+			<key>sourceSize</key>
+			<string>{256, 256}</string>
+		</dict>
+		<key>Asset/Blocks_01_256x256_Alt_00_006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3277, 1823}, {256, 256}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {256, 256}}</string>
+			<key>sourceSize</key>
+			<string>{256, 256}</string>
+		</dict>
+		<key>Asset/Blocks_01_256x256_Alt_00_007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3793, 1833}, {256, 256}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {256, 256}}</string>
+			<key>sourceSize</key>
+			<string>{256, 256}</string>
+		</dict>
+		<key>Asset/Blocks_01_256x256_Alt_03_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{259, 1964}, {256, 256}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {256, 256}}</string>
+			<key>sourceSize</key>
+			<string>{256, 256}</string>
+		</dict>
+		<key>Asset/Blocks_01_256x256_Alt_03_002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1974}, {256, 256}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {256, 256}}</string>
+			<key>sourceSize</key>
+			<string>{256, 256}</string>
+		</dict>
+		<key>Asset/Blocks_01_256x256_Alt_03_003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{517, 1964}, {256, 256}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {256, 256}}</string>
+			<key>sourceSize</key>
+			<string>{256, 256}</string>
+		</dict>
+		<key>Asset/Blocks_01_256x256_Alt_03_004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1781, 1822}, {256, 256}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {256, 256}}</string>
+			<key>sourceSize</key>
+			<string>{256, 256}</string>
+		</dict>
+		<key>Asset/Blocks_01_256x256_Alt_03_005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1471, 1439}, {256, 256}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {256, 256}}</string>
+			<key>sourceSize</key>
+			<string>{256, 256}</string>
+		</dict>
+		<key>Asset/Blocks_01_256x256_Alt_03_006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{491, 1448}, {256, 256}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {256, 256}}</string>
+			<key>sourceSize</key>
+			<string>{256, 256}</string>
+		</dict>
+		<key>Asset/Blocks_01_256x256_Alt_03_007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{749, 1448}, {256, 256}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {256, 256}}</string>
+			<key>sourceSize</key>
+			<string>{256, 256}</string>
+		</dict>
+		<key>Asset/Blocks_01_256x256_Alt_04_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3535, 1833}, {256, 256}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {256, 256}}</string>
+			<key>sourceSize</key>
+			<string>{256, 256}</string>
+		</dict>
+		<key>Asset/Blocks_01_256x256_Alt_04_002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{259, 1706}, {256, 256}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {256, 256}}</string>
+			<key>sourceSize</key>
+			<string>{256, 256}</string>
+		</dict>
+		<key>Asset/Blocks_01_256x256_Alt_04_003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1716}, {256, 256}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {256, 256}}</string>
+			<key>sourceSize</key>
+			<string>{256, 256}</string>
+		</dict>
+		<key>Asset/Blocks_01_256x256_Alt_04_004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{517, 1706}, {256, 256}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {256, 256}}</string>
+			<key>sourceSize</key>
+			<string>{256, 256}</string>
+		</dict>
+		<key>Asset/Blocks_01_256x256_Alt_04_005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{775, 1706}, {256, 256}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {256, 256}}</string>
+			<key>sourceSize</key>
+			<string>{256, 256}</string>
+		</dict>
+		<key>Asset/Blocks_01_256x256_Alt_04_006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1523, 1822}, {256, 256}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {256, 256}}</string>
+			<key>sourceSize</key>
+			<string>{256, 256}</string>
+		</dict>
+		<key>Asset/Blocks_01_256x256_Alt_04_007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1033, 1955}, {256, 256}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {256, 256}}</string>
+			<key>sourceSize</key>
+			<string>{256, 256}</string>
+		</dict>
+		<key>Asset/Blocks_01_256x256_Alt_05_001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{775, 1964}, {256, 256}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {256, 256}}</string>
+			<key>sourceSize</key>
+			<string>{256, 256}</string>
+		</dict>
+		<key>Asset/Blocks_01_256x256_Alt_05_002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3293, 1307}, {256, 256}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {256, 256}}</string>
+			<key>sourceSize</key>
+			<string>{256, 256}</string>
+		</dict>
+		<key>Asset/Blocks_01_256x256_Alt_05_003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3293, 1565}, {256, 256}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {256, 256}}</string>
+			<key>sourceSize</key>
+			<string>{256, 256}</string>
+		</dict>
+		<key>Asset/Blocks_01_256x256_Alt_05_004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1458}, {256, 256}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {256, 256}}</string>
+			<key>sourceSize</key>
+			<string>{256, 256}</string>
+		</dict>
+		<key>Asset/Blocks_01_256x256_Alt_05_005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1007, 1448}, {256, 256}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {256, 256}}</string>
+			<key>sourceSize</key>
+			<string>{256, 256}</string>
+		</dict>
+		<key>Asset/Blocks_01_256x256_Alt_05_006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1729, 1564}, {256, 256}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {256, 256}}</string>
+			<key>sourceSize</key>
+			<string>{256, 256}</string>
+		</dict>
+		<key>Asset/Blocks_01_256x256_Alt_05_007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1265, 1697}, {256, 256}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {256, 256}}</string>
+			<key>sourceSize</key>
+			<string>{256, 256}</string>
+		</dict>
+		<key>Asset/Castle.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3606, 981}, {433, 359}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {433, 359}}</string>
+			<key>sourceSize</key>
+			<string>{433, 359}</string>
+		</dict>
+		<key>Asset/Clouds.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1924, 489}, {1920, 345}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {1920, 345}}</string>
+			<key>sourceSize</key>
+			<string>{1920, 345}</string>
+		</dict>
+		<key>Asset/Gradient.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {1921, 1081}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {1921, 1081}}</string>
+			<key>sourceSize</key>
+			<string>{1921, 1081}</string>
+		</dict>
+		<key>Asset/Hills.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1924, 1}, {1920, 486}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {1920, 486}}</string>
+			<key>sourceSize</key>
+			<string>{1920, 486}</string>
+		</dict>
+		<key>Asset/Moon.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1471, 1084}, {353, 353}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {353, 353}}</string>
+			<key>sourceSize</key>
+			<string>{353, 353}</string>
+		</dict>
+		<key>Asset/Stars.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1924, 836}, {1680, 469}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {1680, 469}}</string>
+			<key>sourceSize</key>
+			<string>{1680, 469}</string>
+		</dict>
+		<key>Asset/buttons-28.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3551, 1469}, {487, 126}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {487, 126}}</string>
+			<key>sourceSize</key>
+			<string>{487, 126}</string>
+		</dict>
+		<key>Asset/buttons-29.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3551, 1597}, {487, 116}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {487, 116}}</string>
+			<key>sourceSize</key>
+			<string>{487, 116}</string>
+		</dict>
+		<key>Asset/buttons-30.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2315, 1436}, {487, 126}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {487, 126}}</string>
+			<key>sourceSize</key>
+			<string>{487, 126}</string>
+		</dict>
+		<key>Asset/buttons-31.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2804, 1436}, {487, 116}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {487, 116}}</string>
+			<key>sourceSize</key>
+			<string>{487, 116}</string>
+		</dict>
+		<key>Asset/buttons-32.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2315, 1307}, {487, 127}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {487, 127}}</string>
+			<key>sourceSize</key>
+			<string>{487, 127}</string>
+		</dict>
+		<key>Asset/buttons-33.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3551, 1715}, {487, 116}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {487, 116}}</string>
+			<key>sourceSize</key>
+			<string>{487, 116}</string>
+		</dict>
+		<key>Asset/buttons-35.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1826, 1307}, {487, 127}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {487, 127}}</string>
+			<key>sourceSize</key>
+			<string>{487, 127}</string>
+		</dict>
+		<key>Asset/buttons-36.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2804, 1554}, {487, 116}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {487, 116}}</string>
+			<key>sourceSize</key>
+			<string>{487, 116}</string>
+		</dict>
+		<key>Asset/buttons-37.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1826, 1436}, {487, 126}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {487, 126}}</string>
+			<key>sourceSize</key>
+			<string>{487, 126}</string>
+		</dict>
+		<key>Asset/buttons-38.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3975, 1}, {487, 117}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {487, 117}}</string>
+			<key>sourceSize</key>
+			<string>{487, 117}</string>
+		</dict>
+		<key>Asset/buttons-39.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{981, 1084}, {488, 126}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {488, 126}}</string>
+			<key>sourceSize</key>
+			<string>{488, 126}</string>
+		</dict>
+		<key>Asset/buttons-40.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{491, 1330}, {488, 116}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {488, 116}}</string>
+			<key>sourceSize</key>
+			<string>{488, 116}</string>
+		</dict>
+		<key>Asset/buttons-41.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1084}, {488, 126}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {488, 126}}</string>
+			<key>sourceSize</key>
+			<string>{488, 126}</string>
+		</dict>
+		<key>Asset/buttons-42.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3975, 979}, {488, 116}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {488, 116}}</string>
+			<key>sourceSize</key>
+			<string>{488, 116}</string>
+		</dict>
+		<key>Asset/buttons-43.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3846, 491}, {488, 127}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {488, 127}}</string>
+			<key>sourceSize</key>
+			<string>{488, 127}</string>
+		</dict>
+		<key>Asset/buttons-44.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1340}, {488, 116}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {488, 116}}</string>
+			<key>sourceSize</key>
+			<string>{488, 116}</string>
+		</dict>
+		<key>Asset/buttons-45.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{491, 1084}, {488, 126}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {488, 126}}</string>
+			<key>sourceSize</key>
+			<string>{488, 126}</string>
+		</dict>
+		<key>Asset/buttons-46.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{491, 1212}, {488, 116}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {488, 116}}</string>
+			<key>sourceSize</key>
+			<string>{488, 116}</string>
+		</dict>
+		<key>Asset/buttons-47.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1212}, {488, 126}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {488, 126}}</string>
+			<key>sourceSize</key>
+			<string>{488, 126}</string>
+		</dict>
+		<key>Asset/buttons-48.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{981, 1330}, {488, 116}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {488, 116}}</string>
+			<key>sourceSize</key>
+			<string>{488, 116}</string>
+		</dict>
+		<key>Asset/buttons-49.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3846, 1}, {488, 127}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {488, 127}}</string>
+			<key>sourceSize</key>
+			<string>{488, 127}</string>
+		</dict>
+		<key>Asset/buttons-50.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{981, 1212}, {488, 116}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {488, 116}}</string>
+			<key>sourceSize</key>
+			<string>{488, 116}</string>
+		</dict>
+		<key>Asset/buttons-51.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2804, 1307}, {487, 127}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {487, 127}}</string>
+			<key>sourceSize</key>
+			<string>{487, 127}</string>
+		</dict>
+		<key>Asset/buttons-52.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3975, 490}, {487, 117}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {487, 117}}</string>
+			<key>sourceSize</key>
+			<string>{487, 117}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{4096, 4096}</string>
+		<key>textureFileName</key>
+		<string>Asset.png</string>
+	</dict>
+</dict>
+</plist>
